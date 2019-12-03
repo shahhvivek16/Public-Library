@@ -1,0 +1,35 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Personal Files that I don't want added ###
+*.log
+logfile.log
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> d56829d38eb8dcd2f40938853b2abbe2b31c7337
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+/dynamicContent/
